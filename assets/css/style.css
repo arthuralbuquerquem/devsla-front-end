@@ -55,8 +55,8 @@ header .middle li a{
     padding: 8px 10px;
 }
 
-header a:hover {
-    background-color: #bbbbbb48;
+header li a:hover {
+    background-color: #bbbbbb20;
     border-radius: 8px;
 }
 
